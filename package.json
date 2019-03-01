@@ -1,0 +1,24 @@
+{
+  "name": "wc-putty",
+  "version": "0.1.0",
+  "description": "Complementary polyfills for @webcomponents/webcomponentsjs",
+  "main": "polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/t2ym/wc-putty.git"
+  },
+  "keywords": [
+    "webcomponentsjs",
+    "polyfill",
+    "web-components"
+  ],
+  "author": "Tetsuya Mori <t2y3141592@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/t2ym/wc-putty/issues"
+  },
+  "homepage": "https://github.com/t2ym/wc-putty#readme"
+}
